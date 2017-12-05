@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-Butiki isa gecko
+Butiki is a gecko
